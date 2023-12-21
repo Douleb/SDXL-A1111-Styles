@@ -1,5 +1,5 @@
 name,prompt,negative_prompt
->>>>>> Generic Styles 
+>>>>>> Generic Styles,,
 Style: Enhance,"breathtaking {prompt} . award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: Anime,"anime artwork {prompt} . anime style, key visual, vibrant, studio anime, highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
 Style: Photographic,"cinematic photo {prompt} . 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
@@ -17,7 +17,7 @@ Style: Cinematic,"cinematic film still {prompt} . shallow depth of field, vignet
 Style: 3d-model,"professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: pixel art,"pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
 Style: Texture,"texture {prompt} top down close-up","ugly, deformed, noisy, blurry"
->>>>>> SDXL COMFYUI PORT
+>>>>>> SDXL COMFYUI PORT,,
 Style: Enhance,"breathtaking {prompt} . award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: sai-3d-model,"professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: sai-analog film,"analog film photo {prompt} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
@@ -122,7 +122,7 @@ Style: photo-long exposure,"long exposure photo of {prompt} . Blurred motion, st
 Style: photo-neon noir,"neon noir {prompt} . cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed","bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
 Style: photo-silhouette,"silhouette style {prompt} . high contrast, minimalistic, black and white, stark, dramatic","ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
 Style: photo-tilt-shift,"tilt-shift photo of {prompt} . Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control","blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
->>>>>> Advanced GPT Styles 
+>>>>>> Advanced GPT Styles,,
 Style: Space art,"galactic style {prompt} . nebula, constellation, cosmic, celestial, highly detailed, starry","blurry, grainy, deformed, photo-realistic, low-contrast, terrestrial"
 Style: Street art,"urban graffiti style {prompt} . vibrant, edgy, street art, underground, spray paint effect","clean, minimalistic, soft, gentle, blurry, off-center"
 Style: Baroque,"Baroque art {prompt} . ornate, richly detailed, dramatic, high contrast, complex composition","minimalistic, low-contrast, blurry, deformed, modern, abstract"
@@ -210,7 +210,7 @@ Style: Process art,"process art style {prompt} . creation focused, ephemeral, do
 Style: Light and space,"light and space style {prompt} . perceptual phenomena, immersive, minimal, detailed","solid objects, non-immersive, maximal, low detail"
 Style: Post-internet,"post-internet style {prompt} . digital culture, technology, online, detailed","pre-internet, nature, offline, low detail"
 Style: Bio-art,"bio-art style {prompt} . living organisms, ethical, natural, detailed","inorganic, unethical, synthetic, low detail"
->>>>>> GPT Cultural Styles
+>>>>>> GPT Cultural Styles,,
 Style: Byzantine,"Byzantine style {prompt} . religious, iconography, gold, highly detailed, mosaics","secular, simple, bronze, minimalist, paintings"
 Style: Celtic,"Celtic style {prompt} . geometric patterns, intricate knots, medieval, highly detailed","random, simplistic, modern, undetailed"
 Style: Native American,"Native American style {prompt} . traditional patterns, tribal, cultural symbols, highly detailed","modern, non-tribal, abstract, undetailed"
@@ -337,7 +337,7 @@ Style: Berber,"Berber style {prompt} . North African, jewelry, silver, highly de
 Style: Dogon,"Dogon style {prompt} . African, wood carving, spiritual, highly detailed","non-African, stone carving, secular, undetailed"
 Style: Fang,"Fang style {prompt} . African, mask, ceremonial, highly detailed","non-African, mask, recreational, undetailed"
 Style: Baga,"Baga style {prompt} . African, mask, spiritual, highly detailed","non-African, mask, secular, undetailed"
->>>>>> GPT Culture Movies Prompts
+>>>>>> GPT Culture Movies Prompts,,
 Style: Blade Runner,"Blade Runner {prompt} . Cyberpunk, neon-lit, rainy, dystopian, noir, cinematic, highly detailed","bright, sunny, utopian, cheerful, undetailed"
 Style: Star Wars,"Star Wars {prompt} . Space opera, galaxy far, far away, epic, iconic, cinematic, highly detailed","earthly, small scale, uniconic, undetailed"
 Style: Lord of the Rings,"Lord of the Rings {prompt} . Epic fantasy, Middle-earth, vast landscapes, highly detailed","science fiction, cityscape, undetailed"
@@ -525,7 +525,7 @@ Style: Naruto,"Naruto {prompt} . Anime, ninjas, coming-of-age, dynamic battles, 
 Style: Dragon Ball Z,"Dragon Ball Z {prompt} . Anime, martial arts, aliens, dynamic battles, unique character designs, highly detailed","cartoon, realism, Disney, Pixar, black and white"
 Style: Sailor Moon,"Sailor Moon {prompt} . Anime, magical girls, romance, unique character designs, highly detailed","cartoon, realism, Disney, Pixar, black and white"
 Style: Cowboy Bebop,"Cowboy Bebop {prompt} . Anime, space western, bounty hunters, noir themes, highly detailed","cartoon, realism, Disney, Pixar, black and white"
->>>>>> GPT Famous Artists
+>>>>>> GPT Famous Artists,,
 Style: Van Gogh, "Van Gogh style {prompt} . Expressive, impasto, swirling brushwork, vibrant", "realistic, photorealistic, calm, straight lines"
 Style: Warhol, "Warhol style {prompt} . Pop art, bold colors, mass production, repetitive", "subdued colors, traditional, unique, serious"
 Style: Picasso, "Picasso style {prompt} . Cubist, geometric, abstract, innovative", "realistic, detailed, smooth, fluid, single perspective"
@@ -710,7 +710,7 @@ Style: Wayne Thiebaud, "Wayne Thiebaud style {prompt} . Pop Art, still life, pas
 Style: Jenny Holzer, "Jenny Holzer style {prompt} . Conceptual, text, LED, public spaces", "Realism, image, oil painting, private spaces"
 Style: Antony Gormley, "Antony Gormley style {prompt} . Sculpture, human form, rusted metal, public art", "Painting, abstract, bright colors, gallery art"
 Style: Maurice Sendak, "Maurice Sendak style {prompt} . Children's illustration, fantasy, detailed, narrative", "Abstract, adult, minimalist, non-narrative"
->>>>>> Advanced GPT Photography
+>>>>>> Advanced GPT Photography,,
 Portrait Photography Style: Charismatic,"{prompt} with charisma. 50mm lens, f/2.8, focused on eyes, natural lighting","overexposed, underexposed, blurry, distorted, overprocessed"
 Portrait Photography Style: Cinematic,"cinematic portrait of {prompt}. 85mm lens, f/1.8, dramatic side lighting, moody atmosphere","overblown highlights, noisy, grainy, oversaturated, wide-angle distortion"
 Portrait Photography Style: Environmental,"environmental portrait of {prompt}. 35mm lens, f/4, wider context, natural surroundings","cluttered background, poor lighting, overexposed, underexposed, unsharp"
@@ -732,7 +732,7 @@ Editorial Photography Style: Opinion,"opinion image of {prompt}. 35mm lens, f/5.
 Architectural Photography Style: Historical,"historical capture of {prompt}. 24mm lens, f/8, capture architectural details, natural lighting","distorted perspective, underexposed, overprocessed, unsharp, oversaturated"
 Architectural Photography Style: Modernist,"modernist view of {prompt}. 18mm lens, f/4, minimalistic, strong lines","barrel distortion, overexposed, blurry, poor composition, flat colors"
 Architectural Photography Style: Surreal,"surreal perspective of {prompt}. Fisheye lens, f/2.8, abstract interpretation, vibrant colors","unfocused, poor lighting, underexposed, overprocessed, distracting elements"
->>>>>> GPT Painting Styles
+>>>>>> GPT Painting Styles,,
 Style: Steampunk,"steampunk-inspired {prompt} . gears, brass, rivets, old-world technology, intricate, highly detailed, Victorian","ugly, deformed, noisy, blurry, minimalistic, sleek"
 Style: Futuristic,"futuristic interpretation of {prompt} . sleek, high-tech, metallic, smooth surfaces, neon, sharp edges, crystal clear, professional, ultra detailed", "ugly, deformed, noisy, blurry, rustic, vintage, antique"
 Style: Abstract Expressionism,"Abstract Expressionist style of {prompt} . bold colors, vigorous brushwork, non-representational, spontaneous, expressive, emotional", "boring, monotone, plain, still, unemotional, realistic, photographic"
@@ -785,7 +785,7 @@ Style: Folk Art,"folk art depiction of {prompt} . traditional, handmade, decorat
 Style: Glitch Art,"glitch art of {prompt} . distorted, digital, vibrant, abstract, modern", "refined, traditional, realistic, photographic, unaltered"
 Style: Chiaroscuro,"chiaroscuro technique on {prompt} . high contrast, dramatic, realistic, refined, tonal", "flat, dull, abstract, impressionistic, simple"
 Style: Gouache,"gouache painting of {prompt} . vibrant, opaque, smooth, rich, detailed", "transparent, loose, rough, dull, photorealistic"
->>>>>> GPT Instagram Styles
+>>>>>> GPT Instagram Styles,,
 Style: High-Fashion, "{prompt} in haute couture. Luxury, designer brands, runway-ready, tailored, chic", "casual, sporty, laid-back, street style, loose"
 Style: Casual-Chic, "{prompt} in a casual chic outfit. Comfortable, stylish, modern, accessible", "formal, high fashion, flamboyant, extravagant"
 Style: Streetwear, "{prompt} rocking the streetwear trend. Urban, hip-hop influence, sneakers, caps, oversized", "preppy, conservative, formal, traditional"
