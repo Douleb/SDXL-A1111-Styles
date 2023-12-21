@@ -1,5 +1,5 @@
 name,prompt,negative_prompt
->>>>>> Generic Styles 
+>>>>>> Generic Styles,,
 Style: Enhance,"breathtaking {prompt} . award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: Anime,"anime artwork {prompt} . anime style, key visual, vibrant, studio anime, highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
 Style: Photographic,"cinematic photo {prompt} . 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
@@ -17,7 +17,7 @@ Style: Cinematic,"cinematic film still {prompt} . shallow depth of field, vignet
 Style: 3d-model,"professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: pixel art,"pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
 Style: Texture,"texture {prompt} top down close-up","ugly, deformed, noisy, blurry"
->>>>>> SDXL COMFYUI PORT
+>>>>>> SDXL COMFYUI PORT,,
 Style: Enhance,"breathtaking {prompt} . award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
 Style: sai-3d-model,"professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 Style: sai-analog film,"analog film photo {prompt} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
