@@ -526,7 +526,7 @@ Style: Dragon Ball Z,"Dragon Ball Z {prompt} . Anime, martial arts, aliens, dyna
 Style: Sailor Moon,"Sailor Moon {prompt} . Anime, magical girls, romance, unique character designs, highly detailed","cartoon, realism, Disney, Pixar, black and white"
 Style: Cowboy Bebop,"Cowboy Bebop {prompt} . Anime, space western, bounty hunters, noir themes, highly detailed","cartoon, realism, Disney, Pixar, black and white"
 >>>>>> GPT Famous Artists
-Style: Van Gogh, "Van Gogh style {prompt} . Expressive, impasto, swirling brushwork, vibrant," "realistic, photorealistic, calm, straight lines"
+Style: Van Gogh, "Van Gogh style {prompt} . Expressive, impasto, swirling brushwork, vibrant", "realistic, photorealistic, calm, straight lines"
 Style: Warhol, "Warhol style {prompt} . Pop art, bold colors, mass production, repetitive," "subdued colors, traditional, unique, serious"
 Style: Picasso, "Picasso style {prompt} . Cubist, geometric, abstract, innovative," "realistic, detailed, smooth, fluid, single perspective"
 Style: Da Vinci, "Da Vinci style {prompt} . Realistic, sfumato, detailed, chiaroscuro," "abstract, vibrant colors, bold, loose brushwork"
