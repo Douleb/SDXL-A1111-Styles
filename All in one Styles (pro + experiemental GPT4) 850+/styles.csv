@@ -168,7 +168,7 @@ Style: Byzantine,"Byzantine style {prompt} . rich, ornate, religious, iconic, hi
 Style: Psychedelic,"psychedelic style {prompt} . vibrant, abstract, distorted, highly detailed","muted, realistic, undistorted, low detail"
 Style: Suprematist,"suprematist style {prompt} . geometric, abstract, non-objective, simple","organic, realistic, objective, complex"
 Style: Constructivist,"constructivist style {prompt} . industrial, geometric, political, highly detailed","organic, curvilinear, apolitical, low detail"
-Style: De Stijl,"de Stijl style {prompt} . abstract, geometric, primary colors,"organic, curvilinear, muted colors, black and white"
+Style: De Stijl,"de Stijl style {prompt} . abstract, geometric, primary colors","organic, curvilinear, muted colors, black and white"
 Style: Ukiyo-e,"ukiyo-e style {prompt} . woodblock print, vibrant, historical Japanese art, detailed","digital, muted, modern, Western"
 Style: Dystopian,"dystopian style {prompt} . bleak, oppressive, futuristic, detailed","utopian, cheerful, historical, low detail"
 Style: Biomechanical,"biomechanical style {prompt} . organic meets mechanical, alien, detailed, H.R. Giger-inspired","geometric, earthy, low detail, not H.R. Giger-inspired"
