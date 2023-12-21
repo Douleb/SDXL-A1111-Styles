@@ -377,7 +377,7 @@ Style: The Little Mermaid,"The Little Mermaid {prompt} . Animated, undersea, mer
 Style: Aladdin,"Aladdin {prompt} . Animated, Arabian Nights, magic carpet, highly detailed","live-action, modern day, ordinary carpet, undetailed"
 Style: Beauty and the Beast,"Beauty and the Beast {prompt} . Animated, fairytale, enchanted castle, highly detailed","live-action, realistic, ordinary house, undetailed"
 Style: Cinderella,"Cinderella {prompt} . Animated, fairytale, magical transformation, highly detailed","live-action, realistic, ordinary transformation, undetailed"
-Style: Sleeping Beauty,"Sleeping Beauty {prompt} . Animated, fairytale, spinning wheel, highly detailed",""live-action, realistic, sewing machine, undetailed"
+Style: Sleeping Beauty,"Sleeping Beauty {prompt} . Animated, fairytale, spinning wheel, highly detailed","live-action, realistic, sewing machine, undetailed"
 Style: Snow White,"Snow White {prompt} . Animated, fairytale, seven dwarfs, highly detailed","live-action, realistic, seven giants, undetailed"
 Style: Mulan,"Mulan {prompt} . Animated, historical, Chinese warfare, highly detailed","live-action, futuristic, space warfare, undetailed"
 Style: Pocahontas,"Pocahontas {prompt} . Animated, historical, Native American, highly detailed","live-action, modern, urban American, undetailed"
